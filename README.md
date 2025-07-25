@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Final-year B.Tech student at AKTU
+- 🎓 B. Tech in Information Technology at ABES Engineering College
 - 💻 Solving DSA problems in **C++** 📚
 - 🌐 Building full-stack projects with **React.js**, **Node.js**, and **Express**
 - ☁️ AWS Certified Cloud Practitioner
